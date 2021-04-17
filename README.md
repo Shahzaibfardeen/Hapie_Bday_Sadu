@@ -1,2 +1,7 @@
-# Hapie_Bday_Sadu
-A Birthday Card Made With JavaScript To Wish My Soul Mate 
+# Responsive-Birthday-Card
+
+Responsive Card with HTML and CSS + YouTube tutorial
+
+# Watch the tutorial
+
+https://youtu.be/BVX7kZ4GM-g
